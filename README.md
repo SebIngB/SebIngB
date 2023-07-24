@@ -1,5 +1,6 @@
-### Hi there 👋
-Hola
+### Hola mi nombre es Sebastian 👋
+
+Bienvenido a mi perfil, soy egresado de la carrera de ingeniería biomedica
 <!--
 **SebIngB/SebIngB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
